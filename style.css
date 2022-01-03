@@ -7,7 +7,7 @@ body {
     background-position: center;
 
     background-image : url(.jpg);
-    background-repeat: no-repeat; 
+    background-position: fixed; 
 }
 h1,
 h2,
