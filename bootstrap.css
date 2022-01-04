@@ -109,10 +109,6 @@ sup {
   top: -0.5em;
 }
 
-audio,
-video {
-  display: inline-block;
-}
 
 audio:not([controls]) {
   display: none;
