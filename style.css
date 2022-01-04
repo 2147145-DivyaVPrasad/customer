@@ -6,7 +6,7 @@ body {
     background-color: #ffffff;
     background-position: center;
 
-    background-image : url(.jpg);
+    background-image : url(image_building.jpg);
     background-position: fixed; 
 }
 h1,
